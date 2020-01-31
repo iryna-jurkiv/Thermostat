@@ -1,0 +1,21 @@
+.low-usage {
+  color: green;
+}
+
+.medium-usage {
+  color: red;
+}
+
+.high-usage {
+  color: black;
+}
+
+#maintemp {
+  font-size: 500%;
+  background-image: url("../thermometer.png");
+  background-repeat: no-repeat;
+  height: 100%;
+  background-size:contain;
+  width: 100%;
+  background-position: bottom center;
+}
